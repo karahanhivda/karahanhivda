@@ -37,7 +37,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hivdakarahan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"  /></a>
 <a href="https://www.instagram.com/hivdakarahan/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="4214976" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCHhdNxVADKQ_qD1hTiptXEg" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="4214976" height="40" width="40" /></a>
 <a href="https://github.com/karahanhivda" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="4214976" /></a>
 <a href="https://www.hackerrank.com/hivdakarahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hivdakarahan" height="40" width="40" /></a>
   
