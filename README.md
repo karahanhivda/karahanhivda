@@ -1,53 +1,84 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Hivda Karahan 👋</h1>
 
-<!--<h2 align="center">✨ Hi <a href="https://github.com/karahanhivda/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Hivda ✨</h2>
-
-<br>
-
-- 🔭 I’m currently learning Full Stack Development
-- 🌱 I’m currently learning [Asp.Net Core](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci)
-- 📫 How to reach me: hivda.krhn@gmail.com
-<!--- 😄 Pronouns: she
- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
-
-#
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karahanhivda&&row=1&theme=monokai" alt="" /></a></p>
-
-
-
-#
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=karahanhivda&show_icons=true&theme=radical" alt="karahanhivda"/>   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karahanhivda&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="karahanhivda"/>
-#
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" >
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
-
+<p align="center">
+  <b>Backend Developer</b> · Java & Spring Boot · Ankara, Türkiye
 </p>
 
+---
 
-## 🔗 Connect with me 
-<p align="left">
-<a href="https://www.linkedin.com/in/hivdakarahan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40"  /></a>
-<a href="https://www.instagram.com/hivdakarahan/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="4214976" height="40" width="40" /></a>
-<a href="https://github.com/karahanhivda" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="4214976" /></a>
-<a href="https://www.hackerrank.com/hivdakarahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hivdakarahan" height="40" width="40" /></a>
-  
-##
-![](https://komarev.com/ghpvc/?username=karahanhivda&color=red)
-**karahanhivda/karahanhivda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- ☕ I build backend systems with **Java** and **Spring Boot**: RESTful APIs, clean domain models and well-tested code.
+- 🗺️ I work with **geospatial data** using PostGIS and Uber's H3 index.
+- 🤖 I integrate AI into backend services with **Spring AI**: RAG, tool calling and chat memory.
+- 🔨 Currently building **MyButchery**, an online ordering platform for a butcher shop — a Spring Modulith modular monolith with a React frontend.
 
-- 🔭 I’m currently working on BilgeAdam Technology
-- 🌱 I’m currently learning ASP.NET Core
-- 💬 Ask me about Asp.Net Core
-- 📫 How to reach me: hivda.krhn@gmail.com
+### Tech stack
 
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Testing**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logoColor=black)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-2E7D32?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-388E3C?style=for-the-badge)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
+
+**Architecture & Concepts**
+
+![OOP](https://img.shields.io/badge/OOP-455A64?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-455A64?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-455A64?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-455A64?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-455A64?style=for-the-badge)
+
+**GIS & Geospatial**
+
+![H3](https://img.shields.io/badge/H3-000000?style=for-the-badge&logo=uber&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Geospatial Data Processing](https://img.shields.io/badge/Geospatial_Data_Processing-2E7D32?style=for-the-badge&logo=openstreetmap&logoColor=white)
+
+**AI & Emerging Technologies**
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge)
+![AI Tool Calling](https://img.shields.io/badge/AI_Tool_Calling-7B1FA2?style=for-the-badge)
+![Chat Memory](https://img.shields.io/badge/Chat_Memory-7B1FA2?style=for-the-badge)
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hivdakarahan/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/hivdakarahan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hivda.krhn@gmail.com)
